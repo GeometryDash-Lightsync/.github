@@ -22,7 +22,7 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 
 ## How to Install ⚒️
 
-**You dont have to install Geode or your Geometry Dash application, Lightsync has its own separated app for both softwares**
+**You dont have to uninstall Geode or your Geometry Dash application, Lightsync has its own separated app for both softwares, so all your stuff will not get replaced/modified/removed**
 
 <details>
 
