@@ -79,5 +79,5 @@ And then, open the game!
 
 * [Discord server](https://discord.com/invite/mvbjWdC6cF) 💭
 * [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
-* [Geode Mods Whitelist]() 📑
-* [Changelog]() 📑
+* [Geode Mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
+* [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
