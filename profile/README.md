@@ -73,3 +73,11 @@ And then, open the game!
 
 
 </details>
+
+
+## Other stuff
+
+* [Discord server](https://discord.com/invite/mvbjWdC6cF) 💭
+* [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
+* [Geode Mods Whitelist]() 📑
+* [Changelog]() 📑
