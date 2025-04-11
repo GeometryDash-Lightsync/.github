@@ -26,7 +26,7 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 
 <details>
 
-<summary>Windows 🖥️</summary>
+<summary>## Windows 🖥️</summary>
 
 Extract the .zip file and run the executable "Lightsync.exe"
 ![image](https://github.com/user-attachments/assets/9e1017e3-f86d-4099-93ea-7706c6e88163)
