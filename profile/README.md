@@ -12,7 +12,7 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 * Fanmade content such as new main levels (and more coming soon)
 * Custom servers
 * More icons and achievements to the game and different ways for unlocking them (and more coming soon)
-* Options for customizing the menu and the player
+* Options for customizing the main menu and the player
 * Geode support (Only with a custom [whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist))
 
 ## Download 📥
@@ -74,6 +74,20 @@ And then, open the game!
 
 </details>
 
+
+## FAQ
+
+<details>
+<summary>About the server</summary>
+</details>
+
+<details>
+<summary>Developer Team</summary>
+</details>
+
+<details>
+<summary>In-game content</summary>
+</details>
 
 ## Other stuff
 
