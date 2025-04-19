@@ -48,6 +48,9 @@ Unzip the file and go to the APK’s folder, then install the app named “Light
 
 As same as the Core, just install it as a normal APK. After installing it, just open it.
 
+**Note**
+Open the game after installation, you need to download Geode assets for installing the rest of Lightsync's stuff, you may notice that loading layer is a bit strange
+
 ![image](https://github.com/user-attachments/assets/7593cfc1-9075-4168-bf27-89a8720ebaa3)
 
 If you did everything good, the launcher will show this message: “Geode is not
