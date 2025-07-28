@@ -40,8 +40,6 @@ Extract the .zip file and run the executable "Lightsync.exe"
 
 ## Video Installation Tutorial
 
-![iframe](https://youtu.be/y6cEOa1g1V0)
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y6cEOa1g1V0" target="_blank">
  <img src="http://img.youtube.com/vi/y6cEOa1g1V0/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
