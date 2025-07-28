@@ -38,10 +38,6 @@ Extract the .zip file and run the executable "Lightsync.exe"
 
 <summary>Android 📱</summary>
 
-## Video Installation Tutorial
-
-
-<iframe width="1904" height="817" src="https://www.youtube.com/embed/y6cEOa1g1V0" title="How to install GD Lightsync on Android" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Core installation
 
