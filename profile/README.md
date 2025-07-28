@@ -38,6 +38,12 @@ Extract the .zip file and run the executable "Lightsync.exe"
 
 <summary>Android 📱</summary>
 
+## Video Installation Tutorial
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y6cEOa1g1V0" target="_blank">
+ <img src="http://img.youtube.com/vi/y6cEOa1g1V0/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 ## Core installation
 
 Unzip the file and go to the APK’s folder, then install the app named “Lightsync Core” as a normal APK file.
