@@ -1,19 +1,57 @@
 # Geometry Dash Lightsync
 
+<img src="assets/Logo.png" width="100px"></img>
+
+* [Discord server](https://discord.com/invite/mvbjWdC6cF) 💭
+* [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
+* [Geode Mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
+* [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
+* 
+## 📜 Table of Contents
+* [About](#about)
+* [Features](#features)
+* [Download](#Download)
+* [How to install](#howtoinstall)
+* [FAQ](#faq)
+
 ## About ❔
 
 Geometry Dash Lightsync is a Fangame and GDPS (Geometry Dash Private Server) created by [Izumi (Chumiu)](https://github.com/Chumiu) with a design based on the launcher [Nexkit](https://github.com/Al3sKa/NexKit) created by [Al3sKa](https://github.com/Al3sKa)
 
 The purpose of Lightsync is to bring a new interface, design, features, cosmetics (and more) to Geometry Dash, to give a more casual, fun and relaxed vibe to the game. Even adding unique content and in some cases, unrelated to the traditional Geometry Dash.
 
-## Notable features 💫
+## Features 💫
 
-* A new design for the game UI
-* Fanmade content such as new main levels (and more coming soon)
-* Custom servers
-* More icons and achievements to the game and different ways for unlocking them (and more coming soon)
-* Options for customizing the main menu and the player
-* Geode support (Only with a custom [whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist))
+### 🌙 All the Features
+
+To see all the features, click [here](features.md). 
+
+*⚠️ Spoiler Alert*
+
+### Notable Features 🔥
+
+> **A new design for the game UI**
+> 
+> More of this will be available in future updates
+
+> **New main levels and more coming soon!**
+> 
+> I apologize that the first 4 are horribly made
+
+> **New Icons, cosmetics and achievements**
+
+> **Private server**
+> 
+> It is a GDPS too! But it is focused on being more of a fangame.
+
+> **Geode support**
+> 
+> Only with a custom [whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist)
+
+> **In-game emojis for comments**
+
+> **New Divine rating**
+> higher than **Mythic**
 
 ## Download 📥
 
@@ -93,10 +131,3 @@ And then, open the game!
 <details>
 <summary>In-game content</summary>
 </details>
-
-## Other stuff
-
-* [Discord server](https://discord.com/invite/mvbjWdC6cF) 💭
-* [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
-* [Geode Mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
-* [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
