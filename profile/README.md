@@ -9,7 +9,7 @@
 * [About the mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
 * [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
 
-## 📜 Table of Contents
+## Table of Contents 📜
 * [About](#about-)
 * [Features](#features-)
 * [Download](#download-)
