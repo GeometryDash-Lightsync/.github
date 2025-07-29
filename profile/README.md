@@ -1,10 +1,12 @@
 # Geometry Dash Lightsync
 
-<img src="assets/Logo.png" width="100px"></img>
+<p align="center">
+  <img src="assets/Logo.png" width="100px"></img>
+  </p>
 
 * [Discord server](https://discord.com/invite/mvbjWdC6cF) 💭
 * [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
-* [Geode Mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
+* [About the mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
 * [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
 
 ## 📜 Table of Contents
