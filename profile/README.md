@@ -4,7 +4,7 @@
 
 Geometry Dash Lightsync is a Fangame and GDPS (Geometry Dash Private Server) created by [Izumi (Chumiu)](https://github.com/Chumiu) with a design based on the launcher [Nexkit](https://github.com/Al3sKa/NexKit) created by [Al3sKa](https://github.com/Al3sKa)
 
-Our purpose is creating an unique version of Geometry Dash, adding new features and also, its own version of the story of the game (lore)
+The purpose of Lightsync is to bring a new interface, design, features, cosmetics (and more) to Geometry Dash, to give a more casual, fun and relaxed vibe to the game. Even adding unique content and in some cases, unrelated to the traditional Geometry Dash.
 
 ## Notable features 💫
 
