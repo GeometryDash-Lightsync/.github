@@ -6,12 +6,12 @@
 * [GDPS Dashboard](https://gdlightsync.ps.fhgdps.com/dashboard/) ⚒️
 * [Geode Mods Whitelist](https://github.com/GeometryDash-Lightsync/Geode-mods-whitelist) 📑
 * [Changelog](https://github.com/GeometryDash-Lightsync/Changelog-history) 📑
-* 
+
 ## 📜 Table of Contents
-* [About](#about)
-* [Features](#features)
-* [Download](#Download)
-* [How to install](#howtoinstall)
+* [About](#about-)
+* [Features](#features-)
+* [Download](#download-)
+* [How to install](#how-to-install)
 * [FAQ](#faq)
 
 ## About ❔
