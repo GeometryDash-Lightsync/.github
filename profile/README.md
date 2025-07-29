@@ -11,7 +11,7 @@
 * [About](#about-)
 * [Features](#features-)
 * [Download](#download-)
-* [How to install](#how-to-install)
+* [How to install](#how-to-install-%EF%B8%8F)
 * [FAQ](#faq)
 
 ## About ❔
