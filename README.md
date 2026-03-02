@@ -1,7 +1,7 @@
 # Geometry Dash Lightsync
 
 <p align="center">
-  <img src="assets/Logo.png" width="100px"></img>
+  <img src="profile/assets/Logo.png" width="100px"></img>
   </p>
 
 # ⚠️ Hey! ⚠️
